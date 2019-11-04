@@ -2,7 +2,7 @@
 
 ## About this demo
 
-This is a basic Power BI report created to demonstrate my front-end and Power BI skills to [G2 Oceans](https://www.g2ocean.com).
+This is a basic Power BI report created to demonstrate my front-end and Power BI skills to [G2 Ocean](https://www.g2ocean.com).
 
 [Live Demo](http://g2ocean-pbi.iding.ir)
 
